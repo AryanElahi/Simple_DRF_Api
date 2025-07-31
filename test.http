@@ -13,13 +13,17 @@ Content-type: application/json
 
 
 
-
-
-# POST http://127.0.0.1:8000/api/token/
+#POST http://127.0.0.1:8000/api/signup/
 # Content-Type: application/json
 
 # {
-#   "username": "testuser",
-#   "password": "123456",
-#   "role" : "admin"
+#    "username": "testuer",
+#    "password": "123456"
 # }
+
+
+
+
+
+
+
